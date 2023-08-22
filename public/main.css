@@ -1,0 +1,10 @@
+.container{
+    margin: 40px;
+}
+.btn-primary{
+    margin: 10px;
+}
+.tranitem{
+    display: flex;
+    margin: 5px;
+}
